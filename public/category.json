@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "category": "Audio"
+    },
+    {
+      "id": 2,
+      "category": "Computers & Accessories"
+    },
+    {
+      "id": 3,
+      "category": "Mobile Devices"
+    },
+    {
+      "id": 4,
+      "category": "Wearable Technology"
+    }
+  ]
+  

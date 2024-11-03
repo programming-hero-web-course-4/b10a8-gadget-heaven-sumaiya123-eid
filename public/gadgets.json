@@ -1,0 +1,195 @@
+[
+    {
+      "product_id": 1,
+      "product_title": "Wireless Earbuds",
+      "product_image": "https://i.ibb.co.com/jfnGkQt/img1.png",
+      "category": "Audio",
+      "price": 79.99,
+      "description": "Compact wireless earbuds with noise-cancellation features and a long-lasting battery.",
+      "Specification": [
+        "Bluetooth 5.0",
+        "Battery life: 20 hours",
+        "Water-resistant (IPX5)",
+        "Touch controls"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 2,
+      "product_title": "Over-Ear Headphones",
+      "product_image": "https://i.ibb.co.com/529np76/img2.jpg",
+      "category": "Audio",
+      "price": 129.99,
+      "description": "High-fidelity over-ear headphones with immersive sound and comfortable fit.",
+      "Specification": [
+        "Active noise cancellation",
+        "Battery life: 30 hours",
+        "Customizable EQ",
+        "Voice assistant compatible"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 3,
+      "product_title": "Portable Bluetooth Speaker",
+      "product_image": "https://i.ibb.co.com/bHfzYcK/img3.png",
+      "category": "Audio",
+      "price": 59.99,
+      "description": "Lightweight and durable Bluetooth speaker with excellent sound quality.",
+      "Specification": [
+        "Bluetooth 4.2",
+        "Battery life: 12 hours",
+        "Built-in microphone for calls",
+        "Water-resistant"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 4,
+      "product_title": "Smart Soundbar",
+      "product_image": "https://i.ibb.co.com/jGSjRtG/img4.jpg",
+      "category": "Audio",
+      "price": 249.99,
+      "description": "Enhance your TV audio experience with this powerful smart soundbar.",
+      "Specification": [
+        "Surround sound technology",
+        "Voice control compatible",
+        "Multiple connectivity options",
+        "Remote control included"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 5,
+      "product_title": "Home Theater System",
+      "product_image": "https://i.ibb.co.com/0yxSZtC/img5.jpg",
+      "category": "Audio",
+      "price": 499.99,
+      "description": "Complete home theater system with surround sound and wireless capabilities.",
+      "Specification": [
+        "5.1 surround sound",
+        "4K HDR compatible",
+        "Wireless speakers",
+        "Smart TV integration"
+      ],
+      "availability": false,
+      "rating": 4.8
+    },
+    {
+      "product_id": 6,
+      "product_title": "Noise-Cancelling Headphones",
+      "product_image": "https://i.ibb.co.com/9n6FHDv/img6.jpg",
+      "category": "Audio",
+      "price": 299.99,
+      "description": "Premium noise-cancelling headphones for an immersive listening experience.",
+      "Specification": [
+        "Active noise cancellation",
+        "Battery life: 40 hours",
+        "Touch controls",
+        "Comfortable fit"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 7,
+      "product_title": "Gaming Mouse",
+      "product_image": "https://i.ibb.co.com/LQK2SFv/img7.jpg",
+      "category": "Computers & Accessories",
+      "price": 69.99,
+      "description": "High-precision gaming mouse with customizable buttons and RGB lighting.",
+      "Specification": [
+        "16000 DPI",
+        "Ergonomic design",
+        "Customizable RGB",
+        "6 programmable buttons"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 8,
+      "product_title": "Mechanical Keyboard",
+      "product_image": "https://i.ibb.co.com/whhtsBy/img8.png",
+      "category": "Computers & Accessories",
+      "price": 99.99,
+      "description": "Durable mechanical keyboard with customizable RGB backlighting.",
+      "Specification": [
+        "Cherry MX switches",
+        "Anti-ghosting",
+        "Customizable keys",
+        "USB connectivity"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 9,
+      "product_title": "Smartphone Model X",
+      "product_image": "https://i.ibb.co.com/x2Mv4NR/img9.jpg",
+      "category": "Mobile Devices",
+      "price": 699.99,
+      "description": "Latest smartphone with cutting-edge technology and stunning display.",
+      "Specification": [
+        "128GB storage",
+        "12MP camera",
+        "5G capable",
+        "6.7-inch display"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 10,
+      "product_title": "Smartphone Model Y",
+      "product_image": "https://i.ibb.co.com/pzp4zwR/img10.jpg",
+      "category": "Mobile Devices",
+      "price": 599.99,
+      "description": "Affordable smartphone with excellent performance and features.",
+      "Specification": [
+        "64GB storage",
+        "8MP camera",
+        "4G LTE",
+        "6.1-inch display"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 11,
+      "product_title": "Smartwatch",
+      "product_image": "https://i.ibb.co.com/6NB6f44/img11.jpg",
+      "category": "Wearable Technology",
+      "price": 199.99,
+      "description": "Stylish smartwatch with fitness tracking and notification features.",
+      "Specification": [
+        "Heart rate monitor",
+        "GPS functionality",
+        "Water-resistant",
+        "Customizable watch faces"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 12,
+      "product_title": "Fitness Tracker",
+      "product_image": "https://i.ibb.co.com/B2MhLvz/img12.png",
+      "category": "Wearable Technology",
+      "price": 79.99,
+      "description": "Advanced fitness tracker with heart rate monitoring and activity tracking.",
+      "Specification": [
+        "Steps and calorie tracking",
+        "Sleep monitoring",
+        "Water-resistant",
+        "Bluetooth connectivity"
+      ],
+      "availability": true,
+      "rating": 4.4
+    }
+  ]
+  
